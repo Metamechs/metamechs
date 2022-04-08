@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+aerofloez.wixsite.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss#dc#desc=42
+aerofloez.wixsite.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1649460292|QkD6BCdCvDLd
+aerofloez.wixsite.com	TRUE	/	FALSE	1999999999	TS0148e245	018d9e98b620418e16371e7f6236f159804f23c4dfd3a3bd7f38f27e0367a0be7c4099408697c95e353bcbd6d0f6a3771041f96f7a160fb813cacc43257267e98efe455770
+aerofloez.wixsite.com	TRUE	/	FALSE	1999999999	TS016d7bc7	018d9e98b67eb4a9e3efebb8518052ded731c9bb87d3a3bd7f38f27e0367a0be7c409940869ca2a3bc54ebcb5f38c260e98f688e19ac795681976f6f64b7264a26f4c4caeb
+.wixsite.com	TRUE	/	FALSE	1999999999	TS016e3841	01c46356a733794f62363b9d097760d670acd2326e46d5bb2088b38631733e00758c4f2d7e921eca8074c12489e21e77f6848e2c14
+aerofloez.wixsite.com	TRUE	/	FALSE	1999999999	SameSite	none
+
